@@ -1,5 +1,4 @@
 # review.io
 
-Go To My Projects' Site
+Review.io is basically a platform for gamers to rate games
 
-[>> View Page >>](http://emirsurmen.github.io)
