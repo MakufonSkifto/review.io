@@ -2,4 +2,4 @@
 
 Go To My Projects' Site
 
-[>> View Page >>](http://iamthe2ndhuman.github.io)
+[>> View Page >>](http://review.github.io)
