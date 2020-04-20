@@ -3,3 +3,7 @@
 Review.io is basically a platform for gamers to rate games
 
 [View Page](https://emirsurmen.github.io/review.io)
+
+My Other Stuff
+
+[View Page](https://emirsurmen.github.io)
