@@ -2,4 +2,4 @@
 
 Go To My Projects' Site
 
-[>> View Page >>](http://review.github.io)
+[>> View Page >>](http://emirsurmen.github.io)
